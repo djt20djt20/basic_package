@@ -1,1 +1,1 @@
-This is a package with a package that I put together
+This is a repo with a basic package that I put together
